@@ -1,0 +1,6 @@
+*.exe
+*.pdb
+*.tsv
+scan-results/
+bin/
+obj/
